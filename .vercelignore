@@ -1,0 +1,9 @@
+node_modules
+.next
+out
+.openai
+.git
+.env*
+*.tsbuildinfo
+public/wasm
+public/models

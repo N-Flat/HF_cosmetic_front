@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+.env*
+!.env.example
+*.tsbuildinfo
+.openai/
+.vercel/
+public/models/
+public/wasm/
+.DS_Store
